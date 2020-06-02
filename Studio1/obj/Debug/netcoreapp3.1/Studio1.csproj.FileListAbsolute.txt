@@ -1,0 +1,13 @@
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.exe
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.deps.json
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.runtimeconfig.json
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.runtimeconfig.dev.json
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.dll
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\bin\Debug\netcoreapp3.1\Studio1.pdb
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.csprojAssemblyReference.cache
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.AssemblyInfoInputs.cache
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.AssemblyInfo.cs
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.csproj.CoreCompileInputs.cache
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.dll
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.pdb
+C:\Users\amyma\Desktop\CodeCamp\C#\Studio1\Studio1\obj\Debug\netcoreapp3.1\Studio1.genruntimeconfig.cache

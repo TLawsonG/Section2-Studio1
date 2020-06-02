@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uU2QcVQXllv9J1UZ7qE/PHCMgKdepDZnb1EF6Hpb+6d7R/Pcsbj8qehGNoXzPfe0awLZCsGmbjxz/TwT0cWMxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amyma\\Desktop\\CodeCamp\\C#\\Studio1\\Studio1\\Studio1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amyma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
